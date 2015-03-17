@@ -1,0 +1,20 @@
+This is a group submission from Adam Cankaya, Nathalie Blume, and Matt LaFollette
+
+Hangman 1.0 is the complete assignment plus:
+
+	- Extra credit: colored text added
+	- Extra credit: clever computer player:
+	 	- prioritizes vowels
+		- chcks for common letter combinations
+		- switches from frequency to random after set number of turns
+
+Hangman 1.1 contains all of 1.0 code plus sounds:
+
+	- Extra credit: Sounds:
+		- Click sound for when human players hit the submission button
+		- Positive/negative buzzer sounds for when any player guesses a letter either right or wrong
+		- Applause sound when any player wins a game
+
+	Note: This sound code contains "import sun.audio.*" which works fine for me (Adam), but causes a compilation error
+	for Nathalie and Matt. I am using Windows 7 x64, Java JDK7 and Eclipse 3.3.2. I am including the two versions of the code
+	in case you also cannot compile the code with sound added.
